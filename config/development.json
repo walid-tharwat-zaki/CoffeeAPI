@@ -1,0 +1,8 @@
+{
+    "port": 5000,
+    "database":{
+        "name": "Task",
+      "username": "TaskUser",
+      "password": "T1skS2cur2P1ssword"
+    }
+}
